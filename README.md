@@ -1,4 +1,3 @@
-@profile/README.md
 <!--
 **chendrizzy/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+
+## Hey there stranger 👋
+I like building stuff to make life easier 🫡
+
+You can support me here:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O71VZXTJ)
